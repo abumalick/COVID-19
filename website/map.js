@@ -134,31 +134,29 @@ info.update = function (props) {
 
 info.addTo(map)
 
-function highlightFeature(e) {
+function handleMouseOver(e) {
   e.target.setStyle({
     weight: 1,
-    // fillOpacity: 1,
   })
   info.update(e.target.feature.properties)
 }
 
-function resetHighlight(e) {
+function handleMouseOut(e) {
   e.target.setStyle({
     weight: 0,
   })
   info.update()
 }
 
-function zoomToFeature(e) {
+function click(e) {
   info.update(e.target.feature.properties)
-  map.fitBounds(e.target.getBounds())
 }
 
 function onEachFeature(feature, layer) {
   layer.on({
-    mouseover: highlightFeature,
-    mouseout: resetHighlight,
-    click: zoomToFeature,
+    mouseover: handleMouseOver,
+    mouseout: handleMouseOut,
+    click: click,
   })
 }
 
