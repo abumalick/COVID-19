@@ -1,0 +1,67 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir,
+    helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial,
+    sans-serif;
+}
+.site_title {
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+#map {
+  width: 100%;
+  height: 600px;
+  max-width: 1028px;
+  max-height: 100%;
+}
+
+.info {
+  padding: 6px 8px;
+  font: 14px/16px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+.info h4 {
+  margin: 0 0 5px;
+  color: #777;
+}
+
+.legend {
+  line-height: 18px;
+  color: #555;
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.5;
+}
+.switcher_div {
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 250px;
+  display: flex;
+  flex-direction: column;
+  /* text-align: center; */
+  align-items: flex-start;
+}
+.switcher_div__button {
+  margin-bottom: 10px;
+  font-weight: bold;
+  padding: 7px 20px;
+  background-color: steelblue;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: color, background-color 0.3s linear;
+}
+.switcher_div__button--active {
+  cursor: not-allowed;
+
+  background-color: white;
+  color: steelblue;
+}

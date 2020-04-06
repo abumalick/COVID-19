@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>COVID-19 Map</title>
+    <meta
+      name="description"
+      content="Map of confirmed cases of COVID-19 per capita"
+    />
+    <meta name="theme-color" content="steelblue" />
+    <meta name="generator" content="parcel" />
+    <meta name="subject" content="coronavirus" />
+    <meta name="rating" content="General" />
+    <link rel="canonical" href="https://example.com/" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="../node_modules/normalize.css/normalize.css"
+    />
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <meta property="og:url" content="https://example.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Content Title" />
+    <meta
+      property="og:image"
+      content="https://example.com/android-chrome-512x512.png"
+    />
+    <meta
+      property="og:image:alt"
+      content="Map of confirmed cases of COVID-19 per capita"
+    />
+    <meta
+      property="og:description"
+      content="Map of confirmed cases of COVID-19 per capita"
+    />
+    <meta property="og:site_name" content="COVID-19 Map" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="article:author" content="abumalick" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@abumalick0" />
+    <meta name="twitter:creator" content="@abumalick0" />
+    <meta name="twitter:url" content="https://example.com/" />
+    <meta name="twitter:title" content="COVID-19 Map" />
+    <meta
+      name="twitter:description"
+      content="Map of confirmed cases of COVID-19 per capita"
+    />
+    <meta
+      name="twitter:image"
+      content="https://example.com/android-chrome-512x512.png"
+    />
+    <meta
+      name="twitter:image:alt"
+      content="Map of confirmed cases of COVID-19 per capita"
+    />
+    <link rel="author" href="https://abumalick.com" />
+    <link rel="publisher" href="https://abumalick.com" />
+    <meta itemprop="name" content="COVID-19 Map" />
+    <meta
+      itemprop="description"
+      content="Map of confirmed cases of COVID-19 per capita"
+    />
+    <meta
+      itemprop="image"
+      content="https://example.com/android-chrome-512x512.png"
+    />
+  </head>
+  <body>
+    <h1 class="site_title">
+      Map of <span id="title_subject">confirmed cases</span> of COVID-19 per
+      capita
+    </h1>
+    <div id="map"></div>
+    <div class="switcher_div">
+      <h2>Switch the map</h2>
+      <button
+        id="confirmed_button"
+        class="switcher_div__button switcher_div__button--active"
+      >
+        Confirmed Cases
+      </button>
+      <button id="recover_button" class="switcher_div__button">
+        Confirmed Recovered
+      </button>
+      <button id="deaths_button" class="switcher_div__button">
+        Confirmed Deaths
+      </button>
+    </div>
+    <script src="./map.js"></script>
+  </body>
+</html>
