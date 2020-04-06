@@ -9,7 +9,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "parcel website/index.html",
+    "build": "parcel build website/index.html",
     "generate": "node --experimental-json-modules scripts/prepareData.mjs",
     "start": "parcel website/index.html"
   },
