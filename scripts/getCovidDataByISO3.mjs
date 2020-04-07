@@ -1,5 +1,6 @@
 import csv from 'csvtojson'
 import {relativePathToRoot} from './utils.mjs'
+import numeral from 'numeral'
 
 // Table that contains the country names and ISO3
 const lookUpTablePath = relativePathToRoot(
@@ -13,12 +14,20 @@ const iso3Correction = {
   'Korea, South': 'KOR',
 }
 
+const COUNTRIES_MERGE_REGIONS = ['Canada', 'Australia', 'China']
+
 async function getISO3ByRegion() {
   if (ISO3ByRegionCache) return ISO3ByRegionCache
   const lookUpArray = await csv().fromFile(lookUpTablePath)
   ISO3ByRegionCache = {}
-  lookUpArray.forEach(({iso2, iso3, Combined_Key, ...rest}) => {
-    const correctCountry = Combined_Key.split(',')[0] // Fix for countries that depends on european countries
+  lookUpArray.forEach(({iso2, iso3, Combined_Key, Country_Region, ...rest}) => {
+    let correctCountry
+    if (COUNTRIES_MERGE_REGIONS.includes(Country_Region)) {
+      correctCountry = Country_Region
+    } else {
+      correctCountry = Combined_Key.split(',')[0] // Fix for countries that depends on european countries
+    }
+
     if (!iso3) {
       return
     }
@@ -50,8 +59,20 @@ export default async function getCovidDataByISO3(filePath) {
   timeSeriesArray.forEach((item) => {
     const state = item['Province/State']
     const country = item['Country/Region']
-    const numberOfCase = item[latestDate]
-    const iso3 = ISO3ByRegion[state] || ISO3ByRegion[country]
+    let numberOfCase = item[latestDate]
+    let iso3
+    if (COUNTRIES_MERGE_REGIONS.includes(country)) {
+      iso3 = ISO3ByRegion[country]
+      if (covidDataByISO3[iso3]) return
+      numberOfCase = timeSeriesArray
+        .reduce((acc, _item) => {
+          if (_item['Country/Region'] === country) acc.add(_item[latestDate])
+          return acc
+        }, numeral(0))
+        .format('0')
+    } else {
+      iso3 = ISO3ByRegion[state] || ISO3ByRegion[country]
+    }
     if (!iso3) {
       console.warn(
         'No ISO3 for this country, dropping the cases:',

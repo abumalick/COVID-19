@@ -850,9 +850,9 @@
         "NAME_TR": "Kanada",
         "NAME_VI": "Canada",
         "NAME_ZH": "加拿大",
-        "COVID19_CONF": "6",
-        "COVID19_DEA": "0",
-        "COVID19_RECO": "619"
+        "COVID19_CONF": "15756",
+        "COVID19_DEA": "259",
+        "COVID19_RECO": "3012"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48007,9 +48007,9 @@
         "NAME_TR": "Avustralya",
         "NAME_VI": "Úc",
         "NAME_ZH": "澳大利亚",
-        "COVID19_CONF": "453",
-        "COVID19_DEA": "3",
-        "COVID19_RECO": "92"
+        "COVID19_CONF": "5687",
+        "COVID19_DEA": "35",
+        "COVID19_RECO": "757"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49235,9 +49235,9 @@
         "NAME_TR": "Çin Halk Cumhuriyeti",
         "NAME_VI": "Cộng hòa Nhân dân Trung Hoa",
         "NAME_ZH": "中华人民共和国",
-        "COVID19_CONF": "1263",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "1230"
+        "COVID19_CONF": "82602",
+        "COVID19_DEA": "3333",
+        "COVID19_RECO": "77207"
       },
       "geometry": {
         "type": "MultiPolygon",
