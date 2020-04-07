@@ -99,7 +99,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   detectRetina: true,
 }).addTo(map)
 
-const info = L.control()
+const info = L.control({position: 'bottomright'})
 
 info.onAdd = function (map) {
   this._div = L.DomUtil.create('div', 'info') // create a div with a class "info"
@@ -110,7 +110,7 @@ info.onAdd = function (map) {
 // method that we will use to update the control based on feature properties passed
 info.update = function (props) {
   if (!props) {
-    this._div.innerHTML = ''
+    this._div.classList.add('hidden')
     return
   }
   let innerHTML = `<h4>${props['NAME']}</h4>`
@@ -130,6 +130,7 @@ info.update = function (props) {
   })
 
   this._div.innerHTML = innerHTML
+  this._div.classList.remove('hidden')
 }
 
 info.addTo(map)
@@ -165,14 +166,15 @@ const addLayer = () => {
 }
 let layer = addLayer()
 
-let legend = L.control({position: 'bottomright'})
+let legend = L.control({position: 'topright'})
 
 legend.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'info legend')
   const currentData = data[CURRENT_STATE]
   const {grades, title} = currentData
-  div.innerHTML += `<h3 style="margin-bottom:0;">${title}</h3>`
-  div.innerHTML += `<div>Per million inhabitant</div>`
+  div.innerHTML += `<h1>COVID-19</h1>`
+  div.innerHTML += `<h3>${title}</h3>`
+  div.innerHTML += `<div class="subtitle">Per million inhabitant</div>`
   // loop through our density intervals and generate a label with a colored square for each interval
   for (var i = 0; i < grades.length; i++) {
     div.innerHTML +=

@@ -80,21 +80,21 @@
         Map of <span id="title_subject">confirmed cases</span> of COVID-19 per
         capita
       </h1>
-      <div id="map"></div>
-      <div class="switcher_div">
-        <h2>Switch the map</h2>
-        <button
-          id="confirmed_button"
-          class="switcher_div__button switcher_div__button--active"
-        >
-          Confirmed Cases
-        </button>
-        <button id="recover_button" class="switcher_div__button">
-          Confirmed Recovered
-        </button>
-        <button id="deaths_button" class="switcher_div__button">
-          Confirmed Deaths
-        </button>
+      <div id="map">
+        <div class="switcher_div leaflet-bottom leaflet-left">
+          <button
+            id="confirmed_button"
+            class="switcher_div__button switcher_div__button--active"
+          >
+            Confirmed
+          </button>
+          <button id="recover_button" class="switcher_div__button">
+            Recovered
+          </button>
+          <button id="deaths_button" class="switcher_div__button">
+            Deaths
+          </button>
+        </div>
       </div>
     </main>
     <script src="./map.js"></script>
