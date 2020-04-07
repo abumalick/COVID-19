@@ -46311,9 +46311,9 @@
         "NAME_TR": "Hollanda",
         "NAME_VI": "Hà Lan",
         "NAME_ZH": "荷蘭",
-        "COVID19_CONF": "2",
-        "COVID19_DEA": "0",
-        "COVID19_RECO": "0"
+        "COVID19_CONF": "17953",
+        "COVID19_DEA": "1771",
+        "COVID19_RECO": "257"
       },
       "geometry": {
         "type": "Polygon",
@@ -51133,9 +51133,9 @@
         "NAME_TR": "Birleşik Krallık",
         "NAME_VI": "Vương quốc Liên hiệp Anh và Bắc Ireland",
         "NAME_ZH": "英国",
-        "COVID19_CONF": "2",
-        "COVID19_DEA": "0",
-        "COVID19_RECO": "0"
+        "COVID19_CONF": "48436",
+        "COVID19_DEA": "4943",
+        "COVID19_RECO": "229"
       },
       "geometry": {
         "type": "MultiPolygon",

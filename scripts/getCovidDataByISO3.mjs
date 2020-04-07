@@ -12,9 +12,17 @@ let ISO3ByRegionCache
 const iso3Correction = {
   Sudan: 'SSD',
   'Korea, South': 'KOR',
+  'United Kingdom': 'GBR',
+  Netherlands: 'NLD',
 }
 
-const COUNTRIES_MERGE_REGIONS = ['Canada', 'Australia', 'China']
+const COUNTRIES_MERGE_REGIONS = [
+  'Canada',
+  'Australia',
+  'China',
+  'United Kingdom',
+  'Netherlands',
+]
 
 async function getISO3ByRegion() {
   if (ISO3ByRegionCache) return ISO3ByRegionCache
