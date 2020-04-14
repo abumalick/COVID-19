@@ -105,7 +105,7 @@
         "NAME_TR": "Fiji",
         "NAME_VI": "Fiji",
         "NAME_ZH": "斐濟",
-        "COVID19_CONF": "14",
+        "COVID19_CONF": "16",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -312,9 +312,9 @@
         "NAME_TR": "Tanzanya",
         "NAME_VI": "Tanzania",
         "NAME_ZH": "坦桑尼亚",
-        "COVID19_CONF": "24",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "3"
+        "COVID19_CONF": "49",
+        "COVID19_DEA": "3",
+        "COVID19_RECO": "7"
       },
       "geometry": {
         "type": "Polygon",
@@ -629,7 +629,7 @@
         "NAME_TR": "Batı Sahra",
         "NAME_VI": "Tây Sahara",
         "NAME_ZH": "西撒哈拉",
-        "COVID19_CONF": "4",
+        "COVID19_CONF": "6",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -850,9 +850,9 @@
         "NAME_TR": "Kanada",
         "NAME_VI": "Canada",
         "NAME_ZH": "加拿大",
-        "COVID19_CONF": "16563",
-        "COVID19_DEA": "339",
-        "COVID19_RECO": "3256"
+        "COVID19_CONF": "25679",
+        "COVID19_DEA": "779",
+        "COVID19_RECO": "7758"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4253,9 +4253,9 @@
         "NAME_TR": "Amerika Birleşik Devletleri",
         "NAME_VI": "Hoa Kỳ",
         "NAME_ZH": "美国",
-        "COVID19_CONF": "366614",
-        "COVID19_DEA": "10783",
-        "COVID19_RECO": "19581"
+        "COVID19_CONF": "580619",
+        "COVID19_DEA": "23529",
+        "COVID19_RECO": "43482"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6188,9 +6188,9 @@
         "NAME_TR": "Kazakistan",
         "NAME_VI": "Kazakhstan",
         "NAME_ZH": "哈萨克斯坦",
-        "COVID19_CONF": "662",
-        "COVID19_DEA": "6",
-        "COVID19_RECO": "46"
+        "COVID19_CONF": "1091",
+        "COVID19_DEA": "12",
+        "COVID19_RECO": "138"
       },
       "geometry": {
         "type": "Polygon",
@@ -6745,9 +6745,9 @@
         "NAME_TR": "Özbekistan",
         "NAME_VI": "Uzbekistan",
         "NAME_ZH": "乌兹别克斯坦",
-        "COVID19_CONF": "457",
-        "COVID19_DEA": "2",
-        "COVID19_RECO": "30"
+        "COVID19_CONF": "998",
+        "COVID19_DEA": "4",
+        "COVID19_RECO": "85"
       },
       "geometry": {
         "type": "Polygon",
@@ -7517,9 +7517,9 @@
         "NAME_TR": "Endonezya",
         "NAME_VI": "Indonesia",
         "NAME_ZH": "印度尼西亚",
-        "COVID19_CONF": "2491",
-        "COVID19_DEA": "209",
-        "COVID19_RECO": "192"
+        "COVID19_CONF": "4557",
+        "COVID19_DEA": "399",
+        "COVID19_RECO": "380"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8676,9 +8676,9 @@
         "NAME_TR": "Arjantin",
         "NAME_VI": "Argentina",
         "NAME_ZH": "阿根廷",
-        "COVID19_CONF": "1554",
-        "COVID19_DEA": "48",
-        "COVID19_RECO": "325"
+        "COVID19_CONF": "2208",
+        "COVID19_DEA": "97",
+        "COVID19_RECO": "515"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9275,9 +9275,9 @@
         "NAME_TR": "Şili",
         "NAME_VI": "Chile",
         "NAME_ZH": "智利",
-        "COVID19_CONF": "4815",
-        "COVID19_DEA": "37",
-        "COVID19_RECO": "728"
+        "COVID19_CONF": "7525",
+        "COVID19_DEA": "82",
+        "COVID19_RECO": "2367"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9846,9 +9846,9 @@
         "NAME_TR": "Demokratik Kongo Cumhuriyeti",
         "NAME_VI": "Cộng hòa Dân chủ Congo",
         "NAME_ZH": "刚果民主共和国",
-        "COVID19_CONF": "161",
-        "COVID19_DEA": "18",
-        "COVID19_RECO": "5"
+        "COVID19_CONF": "235",
+        "COVID19_DEA": "20",
+        "COVID19_RECO": "17"
       },
       "geometry": {
         "type": "Polygon",
@@ -10451,9 +10451,9 @@
         "NAME_TR": "Somali",
         "NAME_VI": "Somalia",
         "NAME_ZH": "索马里",
-        "COVID19_CONF": "7",
-        "COVID19_DEA": "0",
-        "COVID19_RECO": "1"
+        "COVID19_CONF": "60",
+        "COVID19_DEA": "2",
+        "COVID19_RECO": "2"
       },
       "geometry": {
         "type": "Polygon",
@@ -10708,9 +10708,9 @@
         "NAME_TR": "Kenya",
         "NAME_VI": "Kenya",
         "NAME_ZH": "肯尼亚",
-        "COVID19_CONF": "158",
-        "COVID19_DEA": "6",
-        "COVID19_RECO": "4"
+        "COVID19_CONF": "208",
+        "COVID19_DEA": "9",
+        "COVID19_RECO": "40"
       },
       "geometry": {
         "type": "Polygon",
@@ -10965,7 +10965,7 @@
         "NAME_TR": "Sudan",
         "NAME_VI": "Sudan",
         "NAME_ZH": "苏丹共和国",
-        "COVID19_CONF": "1",
+        "COVID19_CONF": "4",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -11398,9 +11398,9 @@
         "NAME_TR": "Çad",
         "NAME_VI": "Tchad",
         "NAME_ZH": "乍得",
-        "COVID19_CONF": "9",
+        "COVID19_CONF": "23",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "0"
+        "COVID19_RECO": "2"
       },
       "geometry": {
         "type": "Polygon",
@@ -11739,8 +11739,8 @@
         "NAME_TR": "Haiti",
         "NAME_VI": "Haiti",
         "NAME_ZH": "海地",
-        "COVID19_CONF": "24",
-        "COVID19_DEA": "1",
+        "COVID19_CONF": "40",
+        "COVID19_DEA": "3",
         "COVID19_RECO": "0"
       },
       "geometry": {
@@ -11932,9 +11932,9 @@
         "NAME_TR": "Dominik Cumhuriyeti",
         "NAME_VI": "Cộng hòa Dominica",
         "NAME_ZH": "多明尼加",
-        "COVID19_CONF": "1828",
-        "COVID19_DEA": "86",
-        "COVID19_RECO": "33"
+        "COVID19_CONF": "3167",
+        "COVID19_DEA": "177",
+        "COVID19_RECO": "152"
       },
       "geometry": {
         "type": "Polygon",
@@ -12145,9 +12145,9 @@
         "NAME_TR": "Rusya",
         "NAME_VI": "Nga",
         "NAME_ZH": "俄罗斯",
-        "COVID19_CONF": "6343",
-        "COVID19_DEA": "47",
-        "COVID19_RECO": "406"
+        "COVID19_CONF": "18328",
+        "COVID19_DEA": "148",
+        "COVID19_RECO": "1470"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14808,9 +14808,9 @@
         "NAME_TR": "Bahamalar",
         "NAME_VI": "Bahamas",
         "NAME_ZH": "巴哈马",
-        "COVID19_CONF": "29",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "4"
+        "COVID19_CONF": "47",
+        "COVID19_DEA": "8",
+        "COVID19_RECO": "6"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15157,8 +15157,8 @@
         "NAME_TR": "Norveç",
         "NAME_VI": "Na Uy",
         "NAME_ZH": "挪威",
-        "COVID19_CONF": "5865",
-        "COVID19_DEA": "76",
+        "COVID19_CONF": "6603",
+        "COVID19_DEA": "134",
         "COVID19_RECO": "32"
       },
       "geometry": {
@@ -15634,7 +15634,7 @@
         "NAME_ZH": "格陵兰",
         "COVID19_CONF": "11",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "4"
+        "COVID19_RECO": "11"
       },
       "geometry": {
         "type": "Polygon",
@@ -16411,9 +16411,9 @@
         "NAME_TR": "Doğu Timor",
         "NAME_VI": "Đông Timor",
         "NAME_ZH": "东帝汶",
-        "COVID19_CONF": "1",
+        "COVID19_CONF": "4",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "0"
+        "COVID19_RECO": "1"
       },
       "geometry": {
         "type": "Polygon",
@@ -16564,9 +16564,9 @@
         "NAME_TR": "Güney Afrika Cumhuriyeti",
         "NAME_VI": "Cộng hòa Nam Phi",
         "NAME_ZH": "南非",
-        "COVID19_CONF": "1686",
-        "COVID19_DEA": "12",
-        "COVID19_RECO": "95"
+        "COVID19_CONF": "2272",
+        "COVID19_DEA": "27",
+        "COVID19_RECO": "410"
       },
       "geometry": {
         "type": "Polygon",
@@ -17205,9 +17205,9 @@
         "NAME_TR": "Meksika",
         "NAME_VI": "México",
         "NAME_ZH": "墨西哥",
-        "COVID19_CONF": "2143",
-        "COVID19_DEA": "94",
-        "COVID19_RECO": "633"
+        "COVID19_CONF": "4661",
+        "COVID19_DEA": "296",
+        "COVID19_RECO": "1843"
       },
       "geometry": {
         "type": "Polygon",
@@ -17994,9 +17994,9 @@
         "NAME_TR": "Uruguay",
         "NAME_VI": "Uruguay",
         "NAME_ZH": "乌拉圭",
-        "COVID19_CONF": "406",
-        "COVID19_DEA": "6",
-        "COVID19_RECO": "104"
+        "COVID19_CONF": "480",
+        "COVID19_DEA": "8",
+        "COVID19_RECO": "231"
       },
       "geometry": {
         "type": "Polygon",
@@ -18187,9 +18187,9 @@
         "NAME_TR": "Brezilya",
         "NAME_VI": "Brasil",
         "NAME_ZH": "巴西",
-        "COVID19_CONF": "12161",
-        "COVID19_DEA": "564",
-        "COVID19_RECO": "127"
+        "COVID19_CONF": "23430",
+        "COVID19_DEA": "1328",
+        "COVID19_RECO": "173"
       },
       "geometry": {
         "type": "Polygon",
@@ -19108,8 +19108,8 @@
         "NAME_TR": "Bolivya",
         "NAME_VI": "Bolivia",
         "NAME_ZH": "玻利維亞",
-        "COVID19_CONF": "183",
-        "COVID19_DEA": "11",
+        "COVID19_CONF": "330",
+        "COVID19_DEA": "27",
         "COVID19_RECO": "2"
       },
       "geometry": {
@@ -19457,9 +19457,9 @@
         "NAME_TR": "Peru",
         "NAME_VI": "Peru",
         "NAME_ZH": "秘鲁",
-        "COVID19_CONF": "2561",
-        "COVID19_DEA": "92",
-        "COVID19_RECO": "997"
+        "COVID19_CONF": "9784",
+        "COVID19_DEA": "216",
+        "COVID19_RECO": "2642"
       },
       "geometry": {
         "type": "Polygon",
@@ -19870,9 +19870,9 @@
         "NAME_TR": "Kolombiya",
         "NAME_VI": "Colombia",
         "NAME_ZH": "哥伦比亚",
-        "COVID19_CONF": "1579",
-        "COVID19_DEA": "46",
-        "COVID19_RECO": "88"
+        "COVID19_CONF": "2852",
+        "COVID19_DEA": "112",
+        "COVID19_RECO": "319"
       },
       "geometry": {
         "type": "Polygon",
@@ -20379,9 +20379,9 @@
         "NAME_TR": "Panama",
         "NAME_VI": "Panama",
         "NAME_ZH": "巴拿马",
-        "COVID19_CONF": "1988",
-        "COVID19_DEA": "54",
-        "COVID19_RECO": "13"
+        "COVID19_CONF": "3400",
+        "COVID19_DEA": "87",
+        "COVID19_RECO": "29"
       },
       "geometry": {
         "type": "Polygon",
@@ -20696,9 +20696,9 @@
         "NAME_TR": "Kosta Rika",
         "NAME_VI": "Costa Rica",
         "NAME_ZH": "哥斯达黎加",
-        "COVID19_CONF": "467",
-        "COVID19_DEA": "2",
-        "COVID19_RECO": "18"
+        "COVID19_CONF": "612",
+        "COVID19_DEA": "3",
+        "COVID19_RECO": "62"
       },
       "geometry": {
         "type": "Polygon",
@@ -20949,9 +20949,9 @@
         "NAME_TR": "Nikaragua",
         "NAME_VI": "Nicaragua",
         "NAME_ZH": "尼加拉瓜",
-        "COVID19_CONF": "6",
+        "COVID19_CONF": "9",
         "COVID19_DEA": "1",
-        "COVID19_RECO": "0"
+        "COVID19_RECO": "4"
       },
       "geometry": {
         "type": "Polygon",
@@ -21266,9 +21266,9 @@
         "NAME_TR": "Honduras",
         "NAME_VI": "Honduras",
         "NAME_ZH": "洪都拉斯",
-        "COVID19_CONF": "298",
-        "COVID19_DEA": "22",
-        "COVID19_RECO": "6"
+        "COVID19_CONF": "397",
+        "COVID19_DEA": "25",
+        "COVID19_RECO": "7"
       },
       "geometry": {
         "type": "Polygon",
@@ -21603,9 +21603,9 @@
         "NAME_TR": "El Salvador",
         "NAME_VI": "El Salvador",
         "NAME_ZH": "萨尔瓦多",
-        "COVID19_CONF": "69",
-        "COVID19_DEA": "4",
-        "COVID19_RECO": "5"
+        "COVID19_CONF": "137",
+        "COVID19_DEA": "6",
+        "COVID19_RECO": "22"
       },
       "geometry": {
         "type": "Polygon",
@@ -21792,9 +21792,9 @@
         "NAME_TR": "Guatemala",
         "NAME_VI": "Guatemala",
         "NAME_ZH": "危地马拉",
-        "COVID19_CONF": "70",
-        "COVID19_DEA": "3",
-        "COVID19_RECO": "15"
+        "COVID19_CONF": "156",
+        "COVID19_DEA": "5",
+        "COVID19_RECO": "19"
       },
       "geometry": {
         "type": "Polygon",
@@ -22041,8 +22041,8 @@
         "NAME_TR": "Belize",
         "NAME_VI": "Belize",
         "NAME_ZH": "伯利兹",
-        "COVID19_CONF": "7",
-        "COVID19_DEA": "1",
+        "COVID19_CONF": "18",
+        "COVID19_DEA": "2",
         "COVID19_RECO": "0"
       },
       "geometry": {
@@ -22230,9 +22230,9 @@
         "NAME_TR": "Venezuela",
         "NAME_VI": "Venezuela",
         "NAME_ZH": "委內瑞拉",
-        "COVID19_CONF": "165",
-        "COVID19_DEA": "7",
-        "COVID19_RECO": "65"
+        "COVID19_CONF": "189",
+        "COVID19_DEA": "9",
+        "COVID19_RECO": "110"
       },
       "geometry": {
         "type": "Polygon",
@@ -22707,8 +22707,8 @@
         "NAME_TR": "Guyana",
         "NAME_VI": "Guyana",
         "NAME_ZH": "圭亚那",
-        "COVID19_CONF": "31",
-        "COVID19_DEA": "4",
+        "COVID19_CONF": "45",
+        "COVID19_DEA": "6",
         "COVID19_RECO": "8"
       },
       "geometry": {
@@ -22978,7 +22978,7 @@
         "NAME_ZH": "蘇利南",
         "COVID19_CONF": "10",
         "COVID19_DEA": "1",
-        "COVID19_RECO": "0"
+        "COVID19_RECO": "6"
       },
       "geometry": {
         "type": "Polygon",
@@ -23189,9 +23189,9 @@
         "NAME_TR": "Fransa",
         "NAME_VI": "Pháp",
         "NAME_ZH": "法国",
-        "COVID19_CONF": "98010",
-        "COVID19_DEA": "8911",
-        "COVID19_RECO": "17250"
+        "COVID19_CONF": "136779",
+        "COVID19_DEA": "14967",
+        "COVID19_RECO": "27718"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23604,9 +23604,9 @@
         "NAME_TR": "Ekvador",
         "NAME_VI": "Ecuador",
         "NAME_ZH": "厄瓜多尔",
-        "COVID19_CONF": "3747",
-        "COVID19_DEA": "191",
-        "COVID19_RECO": "100"
+        "COVID19_CONF": "7529",
+        "COVID19_DEA": "355",
+        "COVID19_RECO": "597"
       },
       "geometry": {
         "type": "Polygon",
@@ -23987,9 +23987,9 @@
         "NAME_TR": "Jamaika",
         "NAME_VI": "Jamaica",
         "NAME_ZH": "牙买加",
-        "COVID19_CONF": "58",
-        "COVID19_DEA": "3",
-        "COVID19_RECO": "8"
+        "COVID19_CONF": "73",
+        "COVID19_DEA": "4",
+        "COVID19_RECO": "19"
       },
       "geometry": {
         "type": "Polygon",
@@ -24140,9 +24140,9 @@
         "NAME_TR": "Küba",
         "NAME_VI": "Cuba",
         "NAME_ZH": "古巴",
-        "COVID19_CONF": "350",
-        "COVID19_DEA": "9",
-        "COVID19_RECO": "18"
+        "COVID19_CONF": "726",
+        "COVID19_DEA": "21",
+        "COVID19_RECO": "121"
       },
       "geometry": {
         "type": "Polygon",
@@ -24417,8 +24417,8 @@
         "NAME_TR": "Zimbabve",
         "NAME_VI": "Zimbabwe",
         "NAME_ZH": "辛巴威",
-        "COVID19_CONF": "10",
-        "COVID19_DEA": "1",
+        "COVID19_CONF": "17",
+        "COVID19_DEA": "3",
         "COVID19_RECO": "0"
       },
       "geometry": {
@@ -24674,7 +24674,7 @@
         "NAME_TR": "Botsvana",
         "NAME_VI": "Botswana",
         "NAME_ZH": "波札那",
-        "COVID19_CONF": "6",
+        "COVID19_CONF": "13",
         "COVID19_DEA": "1",
         "COVID19_RECO": "0"
       },
@@ -25228,9 +25228,9 @@
         "NAME_TR": "Senegal",
         "NAME_VI": "Sénégal",
         "NAME_ZH": "塞内加尔",
-        "COVID19_CONF": "226",
+        "COVID19_CONF": "291",
         "COVID19_DEA": "2",
-        "COVID19_RECO": "92"
+        "COVID19_RECO": "178"
       },
       "geometry": {
         "type": "Polygon",
@@ -25513,9 +25513,9 @@
         "NAME_TR": "Mali",
         "NAME_VI": "Mali",
         "NAME_ZH": "马里共和国",
-        "COVID19_CONF": "47",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "9"
+        "COVID19_CONF": "123",
+        "COVID19_DEA": "10",
+        "COVID19_RECO": "26"
       },
       "geometry": {
         "type": "Polygon",
@@ -25926,7 +25926,7 @@
         "NAME_TR": "Moritanya",
         "NAME_VI": "Mauritanie",
         "NAME_ZH": "毛里塔尼亚",
-        "COVID19_CONF": "6",
+        "COVID19_CONF": "7",
         "COVID19_DEA": "1",
         "COVID19_RECO": "2"
       },
@@ -26191,7 +26191,7 @@
         "NAME_TR": "Benin",
         "NAME_VI": "Bénin",
         "NAME_ZH": "贝宁",
-        "COVID19_CONF": "26",
+        "COVID19_CONF": "35",
         "COVID19_DEA": "1",
         "COVID19_RECO": "5"
       },
@@ -26400,9 +26400,9 @@
         "NAME_TR": "Nijer",
         "NAME_VI": "Niger",
         "NAME_ZH": "尼日尔",
-        "COVID19_CONF": "253",
-        "COVID19_DEA": "10",
-        "COVID19_RECO": "26"
+        "COVID19_CONF": "529",
+        "COVID19_DEA": "12",
+        "COVID19_RECO": "75"
       },
       "geometry": {
         "type": "Polygon",
@@ -26741,9 +26741,9 @@
         "NAME_TR": "Nijerya",
         "NAME_VI": "Nigeria",
         "NAME_ZH": "奈及利亞",
-        "COVID19_CONF": "238",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "35"
+        "COVID19_CONF": "343",
+        "COVID19_DEA": "10",
+        "COVID19_RECO": "91"
       },
       "geometry": {
         "type": "Polygon",
@@ -27082,9 +27082,9 @@
         "NAME_TR": "Kamerun",
         "NAME_VI": "Cameroon",
         "NAME_ZH": "喀麦隆",
-        "COVID19_CONF": "658",
-        "COVID19_DEA": "9",
-        "COVID19_RECO": "17"
+        "COVID19_CONF": "820",
+        "COVID19_DEA": "12",
+        "COVID19_RECO": "98"
       },
       "geometry": {
         "type": "Polygon",
@@ -27435,9 +27435,9 @@
         "NAME_TR": "Togo",
         "NAME_VI": "Togo",
         "NAME_ZH": "多哥",
-        "COVID19_CONF": "58",
+        "COVID19_CONF": "77",
         "COVID19_DEA": "3",
-        "COVID19_RECO": "23"
+        "COVID19_RECO": "29"
       },
       "geometry": {
         "type": "Polygon",
@@ -27620,9 +27620,9 @@
         "NAME_TR": "Gana",
         "NAME_VI": "Ghana",
         "NAME_ZH": "迦納",
-        "COVID19_CONF": "214",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "31"
+        "COVID19_CONF": "566",
+        "COVID19_DEA": "8",
+        "COVID19_RECO": "4"
       },
       "geometry": {
         "type": "Polygon",
@@ -27829,9 +27829,9 @@
         "NAME_TR": "Fildişi Sahili",
         "NAME_VI": "Bờ Biển Ngà",
         "NAME_ZH": "科特迪瓦",
-        "COVID19_CONF": "323",
-        "COVID19_DEA": "3",
-        "COVID19_RECO": "41"
+        "COVID19_CONF": "626",
+        "COVID19_DEA": "6",
+        "COVID19_RECO": "89"
       },
       "geometry": {
         "type": "Polygon",
@@ -28122,9 +28122,9 @@
         "NAME_TR": "Gine",
         "NAME_VI": "Guinée",
         "NAME_ZH": "几内亚",
-        "COVID19_CONF": "128",
+        "COVID19_CONF": "319",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "5"
+        "COVID19_RECO": "17"
       },
       "geometry": {
         "type": "Polygon",
@@ -28511,7 +28511,7 @@
         "NAME_TR": "Gine-Bissau",
         "NAME_VI": "Guiné-Bissau",
         "NAME_ZH": "幾內亞比索",
-        "COVID19_CONF": "18",
+        "COVID19_CONF": "38",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -28696,9 +28696,9 @@
         "NAME_TR": "Liberya",
         "NAME_VI": "Liberia",
         "NAME_ZH": "利比里亚",
-        "COVID19_CONF": "14",
-        "COVID19_DEA": "3",
-        "COVID19_RECO": "3"
+        "COVID19_CONF": "59",
+        "COVID19_DEA": "6",
+        "COVID19_RECO": "4"
       },
       "geometry": {
         "type": "Polygon",
@@ -28913,7 +28913,7 @@
         "NAME_TR": "Sierra Leone",
         "NAME_VI": "Sierra Leone",
         "NAME_ZH": "塞拉利昂",
-        "COVID19_CONF": "6",
+        "COVID19_CONF": "10",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -29110,9 +29110,9 @@
         "NAME_TR": "Burkina Faso",
         "NAME_VI": "Burkina Faso",
         "NAME_ZH": "布吉納法索",
-        "COVID19_CONF": "364",
-        "COVID19_DEA": "18",
-        "COVID19_RECO": "108"
+        "COVID19_CONF": "497",
+        "COVID19_DEA": "27",
+        "COVID19_RECO": "161"
       },
       "geometry": {
         "type": "Polygon",
@@ -29375,9 +29375,9 @@
         "NAME_TR": "Orta Afrika Cumhuriyeti",
         "NAME_VI": "Cộng hòa Trung Phi",
         "NAME_ZH": "中非共和國",
-        "COVID19_CONF": "8",
+        "COVID19_CONF": "11",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "0"
+        "COVID19_RECO": "3"
       },
       "geometry": {
         "type": "Polygon",
@@ -29732,9 +29732,9 @@
         "NAME_TR": "Kongo Cumhuriyeti",
         "NAME_VI": "Cộng hòa Congo",
         "NAME_ZH": "刚果共和国",
-        "COVID19_CONF": "45",
+        "COVID19_CONF": "60",
         "COVID19_DEA": "5",
-        "COVID19_RECO": "2"
+        "COVID19_RECO": "5"
       },
       "geometry": {
         "type": "Polygon",
@@ -30037,7 +30037,7 @@
         "NAME_TR": "Gabon",
         "NAME_VI": "Gabon",
         "NAME_ZH": "加蓬",
-        "COVID19_CONF": "24",
+        "COVID19_CONF": "57",
         "COVID19_DEA": "1",
         "COVID19_RECO": "1"
       },
@@ -30270,9 +30270,9 @@
         "NAME_TR": "Ekvator Ginesi",
         "NAME_VI": "Guinea Xích Đạo",
         "NAME_ZH": "赤道几内亚",
-        "COVID19_CONF": "16",
+        "COVID19_CONF": "21",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "3"
+        "COVID19_RECO": "4"
       },
       "geometry": {
         "type": "Polygon",
@@ -30407,9 +30407,9 @@
         "NAME_TR": "Zambiya",
         "NAME_VI": "Zambia",
         "NAME_ZH": "赞比亚",
-        "COVID19_CONF": "39",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "5"
+        "COVID19_CONF": "45",
+        "COVID19_DEA": "2",
+        "COVID19_RECO": "30"
       },
       "geometry": {
         "type": "Polygon",
@@ -30760,8 +30760,8 @@
         "NAME_TR": "Malavi",
         "NAME_VI": "Malawi",
         "NAME_ZH": "马拉维",
-        "COVID19_CONF": "5",
-        "COVID19_DEA": "0",
+        "COVID19_CONF": "16",
+        "COVID19_DEA": "2",
         "COVID19_RECO": "0"
       },
       "geometry": {
@@ -30981,9 +30981,9 @@
         "NAME_TR": "Mozambik",
         "NAME_VI": "Mozambique",
         "NAME_ZH": "莫桑比克",
-        "COVID19_CONF": "10",
+        "COVID19_CONF": "21",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "1"
+        "COVID19_RECO": "2"
       },
       "geometry": {
         "type": "Polygon",
@@ -31406,9 +31406,9 @@
         "NAME_TR": "Svaziland",
         "NAME_VI": "Swaziland",
         "NAME_ZH": "斯威士兰",
-        "COVID19_CONF": "10",
+        "COVID19_CONF": "15",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "4"
+        "COVID19_RECO": "7"
       },
       "geometry": {
         "type": "Polygon",
@@ -31559,9 +31559,9 @@
         "NAME_TR": "Angola",
         "NAME_VI": "Angola",
         "NAME_ZH": "安哥拉",
-        "COVID19_CONF": "16",
+        "COVID19_CONF": "19",
         "COVID19_DEA": "2",
-        "COVID19_RECO": "2"
+        "COVID19_RECO": "4"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31974,8 +31974,8 @@
         "NAME_TR": "Burundi",
         "NAME_VI": "Burundi",
         "NAME_ZH": "蒲隆地",
-        "COVID19_CONF": "3",
-        "COVID19_DEA": "0",
+        "COVID19_CONF": "5",
+        "COVID19_DEA": "1",
         "COVID19_RECO": "0"
       },
       "geometry": {
@@ -32135,9 +32135,9 @@
         "NAME_TR": "İsrail",
         "NAME_VI": "Israel",
         "NAME_ZH": "以色列",
-        "COVID19_CONF": "8904",
-        "COVID19_DEA": "57",
-        "COVID19_RECO": "585"
+        "COVID19_CONF": "11586",
+        "COVID19_DEA": "116",
+        "COVID19_RECO": "1855"
       },
       "geometry": {
         "type": "Polygon",
@@ -32348,9 +32348,9 @@
         "NAME_TR": "Lübnan",
         "NAME_VI": "Liban",
         "NAME_ZH": "黎巴嫩",
-        "COVID19_CONF": "541",
-        "COVID19_DEA": "19",
-        "COVID19_RECO": "60"
+        "COVID19_CONF": "632",
+        "COVID19_DEA": "20",
+        "COVID19_RECO": "80"
       },
       "geometry": {
         "type": "Polygon",
@@ -32501,9 +32501,9 @@
         "NAME_TR": "Madagaskar",
         "NAME_VI": "Madagascar",
         "NAME_ZH": "马达加斯加",
-        "COVID19_CONF": "82",
+        "COVID19_CONF": "106",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "2"
+        "COVID19_RECO": "21"
       },
       "geometry": {
         "type": "Polygon",
@@ -32806,9 +32806,9 @@
         "NAME_TR": "Filistin",
         "NAME_VI": "Palestine",
         "NAME_ZH": "巴勒斯坦",
-        "COVID19_CONF": "254",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "24"
+        "COVID19_CONF": "308",
+        "COVID19_DEA": "2",
+        "COVID19_RECO": "58"
       },
       "geometry": {
         "type": "Polygon",
@@ -32951,7 +32951,7 @@
         "NAME_TR": "Gambiya",
         "NAME_VI": "Gambia",
         "NAME_ZH": "冈比亚",
-        "COVID19_CONF": "4",
+        "COVID19_CONF": "9",
         "COVID19_DEA": "1",
         "COVID19_RECO": "2"
       },
@@ -33124,9 +33124,9 @@
         "NAME_TR": "Tunus",
         "NAME_VI": "Tunisia",
         "NAME_ZH": "突尼西亞",
-        "COVID19_CONF": "596",
-        "COVID19_DEA": "22",
-        "COVID19_RECO": "5"
+        "COVID19_CONF": "726",
+        "COVID19_DEA": "34",
+        "COVID19_RECO": "43"
       },
       "geometry": {
         "type": "Polygon",
@@ -33357,9 +33357,9 @@
         "NAME_TR": "Cezayir",
         "NAME_VI": "Algérie",
         "NAME_ZH": "阿尔及利亚",
-        "COVID19_CONF": "1423",
-        "COVID19_DEA": "173",
-        "COVID19_RECO": "90"
+        "COVID19_CONF": "1983",
+        "COVID19_DEA": "313",
+        "COVID19_RECO": "601"
       },
       "geometry": {
         "type": "Polygon",
@@ -33714,9 +33714,9 @@
         "NAME_TR": "Ürdün",
         "NAME_VI": "Jordan",
         "NAME_ZH": "约旦",
-        "COVID19_CONF": "349",
-        "COVID19_DEA": "6",
-        "COVID19_RECO": "126"
+        "COVID19_CONF": "391",
+        "COVID19_DEA": "7",
+        "COVID19_RECO": "215"
       },
       "geometry": {
         "type": "Polygon",
@@ -33899,9 +33899,9 @@
         "NAME_TR": "Birleşik Arap Emirlikleri",
         "NAME_VI": "Các Tiểu vương quốc Ả Rập Thống nhất",
         "NAME_ZH": "阿拉伯联合酋长国",
-        "COVID19_CONF": "2076",
-        "COVID19_DEA": "11",
-        "COVID19_RECO": "167"
+        "COVID19_CONF": "4521",
+        "COVID19_DEA": "25",
+        "COVID19_RECO": "852"
       },
       "geometry": {
         "type": "Polygon",
@@ -34096,9 +34096,9 @@
         "NAME_TR": "Katar",
         "NAME_VI": "Qatar",
         "NAME_ZH": "卡塔尔",
-        "COVID19_CONF": "1832",
-        "COVID19_DEA": "4",
-        "COVID19_RECO": "131"
+        "COVID19_CONF": "3231",
+        "COVID19_DEA": "7",
+        "COVID19_RECO": "334"
       },
       "geometry": {
         "type": "Polygon",
@@ -34241,9 +34241,9 @@
         "NAME_TR": "Kuveyt",
         "NAME_VI": "Kuwait",
         "NAME_ZH": "科威特",
-        "COVID19_CONF": "665",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "103"
+        "COVID19_CONF": "1300",
+        "COVID19_DEA": "2",
+        "COVID19_RECO": "150"
       },
       "geometry": {
         "type": "Polygon",
@@ -34386,9 +34386,9 @@
         "NAME_TR": "Irak",
         "NAME_VI": "Iraq",
         "NAME_ZH": "伊拉克",
-        "COVID19_CONF": "1031",
-        "COVID19_DEA": "64",
-        "COVID19_RECO": "344"
+        "COVID19_CONF": "1378",
+        "COVID19_DEA": "78",
+        "COVID19_RECO": "717"
       },
       "geometry": {
         "type": "Polygon",
@@ -34615,9 +34615,9 @@
         "NAME_TR": "Umman",
         "NAME_VI": "Oman",
         "NAME_ZH": "阿曼",
-        "COVID19_CONF": "331",
-        "COVID19_DEA": "2",
-        "COVID19_RECO": "61"
+        "COVID19_CONF": "727",
+        "COVID19_DEA": "4",
+        "COVID19_RECO": "124"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35078,9 +35078,9 @@
         "NAME_TR": "Kamboçya",
         "NAME_VI": "Campuchia",
         "NAME_ZH": "柬埔寨",
-        "COVID19_CONF": "114",
+        "COVID19_CONF": "122",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "53"
+        "COVID19_RECO": "77"
       },
       "geometry": {
         "type": "Polygon",
@@ -35255,9 +35255,9 @@
         "NAME_TR": "Tayland",
         "NAME_VI": "Thái Lan",
         "NAME_ZH": "泰国",
-        "COVID19_CONF": "2220",
-        "COVID19_DEA": "26",
-        "COVID19_RECO": "793"
+        "COVID19_CONF": "2579",
+        "COVID19_DEA": "40",
+        "COVID19_RECO": "1288"
       },
       "geometry": {
         "type": "Polygon",
@@ -35620,7 +35620,7 @@
         "NAME_TR": "Laos",
         "NAME_VI": "Lào",
         "NAME_ZH": "老挝",
-        "COVID19_CONF": "12",
+        "COVID19_CONF": "19",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -35877,9 +35877,9 @@
         "NAME_TR": "Myanmar",
         "NAME_VI": "Myanma",
         "NAME_ZH": "缅甸",
-        "COVID19_CONF": "22",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "0"
+        "COVID19_CONF": "62",
+        "COVID19_DEA": "4",
+        "COVID19_RECO": "2"
       },
       "geometry": {
         "type": "Polygon",
@@ -36266,9 +36266,9 @@
         "NAME_TR": "Vietnam",
         "NAME_VI": "Việt Nam",
         "NAME_ZH": "越南",
-        "COVID19_CONF": "245",
+        "COVID19_CONF": "265",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "95"
+        "COVID19_RECO": "146"
       },
       "geometry": {
         "type": "Polygon",
@@ -36855,9 +36855,9 @@
         "NAME_TR": "Güney Kore",
         "NAME_VI": "Hàn Quốc",
         "NAME_ZH": "大韩民国",
-        "COVID19_CONF": "10284",
-        "COVID19_DEA": "186",
-        "COVID19_RECO": "6598"
+        "COVID19_CONF": "10537",
+        "COVID19_DEA": "217",
+        "COVID19_RECO": "7447"
       },
       "geometry": {
         "type": "Polygon",
@@ -37040,9 +37040,9 @@
         "NAME_TR": "Moğolistan",
         "NAME_VI": "Mông Cổ",
         "NAME_ZH": "蒙古国",
-        "COVID19_CONF": "15",
+        "COVID19_CONF": "17",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "2"
+        "COVID19_RECO": "4"
       },
       "geometry": {
         "type": "Polygon",
@@ -37449,9 +37449,9 @@
         "NAME_TR": "Hindistan",
         "NAME_VI": "Ấn Độ",
         "NAME_ZH": "印度",
-        "COVID19_CONF": "4778",
-        "COVID19_DEA": "136",
-        "COVID19_RECO": "375"
+        "COVID19_CONF": "10453",
+        "COVID19_DEA": "358",
+        "COVID19_RECO": "1181"
       },
       "geometry": {
         "type": "Polygon",
@@ -38102,9 +38102,9 @@
         "NAME_TR": "Bangladeş",
         "NAME_VI": "Bangladesh",
         "NAME_ZH": "孟加拉国",
-        "COVID19_CONF": "123",
-        "COVID19_DEA": "12",
-        "COVID19_RECO": "33"
+        "COVID19_CONF": "803",
+        "COVID19_DEA": "39",
+        "COVID19_RECO": "42"
       },
       "geometry": {
         "type": "Polygon",
@@ -38516,7 +38516,7 @@
         "NAME_TR": "Nepal",
         "NAME_VI": "Nepal",
         "NAME_ZH": "尼泊尔",
-        "COVID19_CONF": "9",
+        "COVID19_CONF": "14",
         "COVID19_DEA": "0",
         "COVID19_RECO": "1"
       },
@@ -38717,9 +38717,9 @@
         "NAME_TR": "Pakistan",
         "NAME_VI": "Pakistan",
         "NAME_ZH": "巴基斯坦",
-        "COVID19_CONF": "3766",
-        "COVID19_DEA": "53",
-        "COVID19_RECO": "259"
+        "COVID19_CONF": "5496",
+        "COVID19_DEA": "93",
+        "COVID19_RECO": "1095"
       },
       "geometry": {
         "type": "Polygon",
@@ -39090,9 +39090,9 @@
         "NAME_TR": "Afganistan",
         "NAME_VI": "Afghanistan",
         "NAME_ZH": "阿富汗",
-        "COVID19_CONF": "367",
-        "COVID19_DEA": "11",
-        "COVID19_RECO": "18"
+        "COVID19_CONF": "665",
+        "COVID19_DEA": "21",
+        "COVID19_RECO": "32"
       },
       "geometry": {
         "type": "Polygon",
@@ -39745,9 +39745,9 @@
         "NAME_TR": "Kırgızistan",
         "NAME_VI": "Kyrgyzstan",
         "NAME_ZH": "吉尔吉斯斯坦",
-        "COVID19_CONF": "216",
-        "COVID19_DEA": "4",
-        "COVID19_RECO": "33"
+        "COVID19_CONF": "419",
+        "COVID19_DEA": "5",
+        "COVID19_RECO": "67"
       },
       "geometry": {
         "type": "Polygon",
@@ -40316,9 +40316,9 @@
         "NAME_TR": "İran",
         "NAME_VI": "Iran",
         "NAME_ZH": "伊朗",
-        "COVID19_CONF": "60500",
-        "COVID19_DEA": "3739",
-        "COVID19_RECO": "24236"
+        "COVID19_CONF": "73303",
+        "COVID19_DEA": "4585",
+        "COVID19_RECO": "45983"
       },
       "geometry": {
         "type": "Polygon",
@@ -40729,9 +40729,9 @@
         "NAME_TR": "Suriye",
         "NAME_VI": "Syria",
         "NAME_ZH": "叙利亚",
-        "COVID19_CONF": "19",
+        "COVID19_CONF": "25",
         "COVID19_DEA": "2",
-        "COVID19_RECO": "2"
+        "COVID19_RECO": "5"
       },
       "geometry": {
         "type": "Polygon",
@@ -40946,9 +40946,9 @@
         "NAME_TR": "Ermenistan",
         "NAME_VI": "Armenia",
         "NAME_ZH": "亞美尼亞",
-        "COVID19_CONF": "833",
-        "COVID19_DEA": "8",
-        "COVID19_RECO": "62"
+        "COVID19_CONF": "1039",
+        "COVID19_DEA": "14",
+        "COVID19_RECO": "211"
       },
       "geometry": {
         "type": "Polygon",
@@ -41135,9 +41135,9 @@
         "NAME_TR": "İsveç",
         "NAME_VI": "Thụy Điển",
         "NAME_ZH": "瑞典",
-        "COVID19_CONF": "7206",
-        "COVID19_DEA": "477",
-        "COVID19_RECO": "205"
+        "COVID19_CONF": "10948",
+        "COVID19_DEA": "919",
+        "COVID19_RECO": "381"
       },
       "geometry": {
         "type": "Polygon",
@@ -41404,9 +41404,9 @@
         "NAME_TR": "Beyaz Rusya",
         "NAME_VI": "Belarus",
         "NAME_ZH": "白罗斯",
-        "COVID19_CONF": "700",
-        "COVID19_DEA": "13",
-        "COVID19_RECO": "53"
+        "COVID19_CONF": "2919",
+        "COVID19_DEA": "29",
+        "COVID19_RECO": "203"
       },
       "geometry": {
         "type": "Polygon",
@@ -41693,9 +41693,9 @@
         "NAME_TR": "Ukrayna",
         "NAME_VI": "Ukraina",
         "NAME_ZH": "乌克兰",
-        "COVID19_CONF": "1319",
-        "COVID19_DEA": "38",
-        "COVID19_RECO": "28"
+        "COVID19_CONF": "3102",
+        "COVID19_DEA": "93",
+        "COVID19_RECO": "97"
       },
       "geometry": {
         "type": "Polygon",
@@ -42174,9 +42174,9 @@
         "NAME_TR": "Polonya",
         "NAME_VI": "Ba Lan",
         "NAME_ZH": "波兰",
-        "COVID19_CONF": "4413",
-        "COVID19_DEA": "107",
-        "COVID19_RECO": "162"
+        "COVID19_CONF": "6934",
+        "COVID19_DEA": "245",
+        "COVID19_RECO": "487"
       },
       "geometry": {
         "type": "Polygon",
@@ -42463,9 +42463,9 @@
         "NAME_TR": "Avusturya",
         "NAME_VI": "Áo",
         "NAME_ZH": "奥地利",
-        "COVID19_CONF": "12297",
-        "COVID19_DEA": "220",
-        "COVID19_RECO": "3463"
+        "COVID19_CONF": "14041",
+        "COVID19_DEA": "368",
+        "COVID19_RECO": "7343"
       },
       "geometry": {
         "type": "Polygon",
@@ -42720,9 +42720,9 @@
         "NAME_TR": "Macaristan",
         "NAME_VI": "Hungary",
         "NAME_ZH": "匈牙利",
-        "COVID19_CONF": "744",
-        "COVID19_DEA": "38",
-        "COVID19_RECO": "67"
+        "COVID19_CONF": "1458",
+        "COVID19_DEA": "109",
+        "COVID19_RECO": "120"
       },
       "geometry": {
         "type": "Polygon",
@@ -42957,9 +42957,9 @@
         "NAME_TR": "Moldova",
         "NAME_VI": "Moldova",
         "NAME_ZH": "摩尔多瓦",
-        "COVID19_CONF": "965",
-        "COVID19_DEA": "19",
-        "COVID19_RECO": "37"
+        "COVID19_CONF": "1712",
+        "COVID19_DEA": "35",
+        "COVID19_RECO": "107"
       },
       "geometry": {
         "type": "Polygon",
@@ -43174,9 +43174,9 @@
         "NAME_TR": "Romanya",
         "NAME_VI": "Romania",
         "NAME_ZH": "羅馬尼亞",
-        "COVID19_CONF": "4057",
-        "COVID19_DEA": "176",
-        "COVID19_RECO": "406"
+        "COVID19_CONF": "6633",
+        "COVID19_DEA": "331",
+        "COVID19_RECO": "914"
       },
       "geometry": {
         "type": "Polygon",
@@ -43459,9 +43459,9 @@
         "NAME_TR": "Litvanya",
         "NAME_VI": "Litva",
         "NAME_ZH": "立陶宛",
-        "COVID19_CONF": "843",
-        "COVID19_DEA": "15",
-        "COVID19_RECO": "8"
+        "COVID19_CONF": "1062",
+        "COVID19_DEA": "24",
+        "COVID19_RECO": "101"
       },
       "geometry": {
         "type": "Polygon",
@@ -43644,8 +43644,8 @@
         "NAME_TR": "Letonya",
         "NAME_VI": "Latvia",
         "NAME_ZH": "拉脫維亞",
-        "COVID19_CONF": "542",
-        "COVID19_DEA": "1",
+        "COVID19_CONF": "655",
+        "COVID19_DEA": "5",
         "COVID19_RECO": "16"
       },
       "geometry": {
@@ -43841,9 +43841,9 @@
         "NAME_TR": "Estonya",
         "NAME_VI": "Estonia",
         "NAME_ZH": "爱沙尼亚",
-        "COVID19_CONF": "1108",
-        "COVID19_DEA": "19",
-        "COVID19_RECO": "62"
+        "COVID19_CONF": "1332",
+        "COVID19_DEA": "28",
+        "COVID19_RECO": "102"
       },
       "geometry": {
         "type": "Polygon",
@@ -44026,9 +44026,9 @@
         "NAME_TR": "Almanya",
         "NAME_VI": "Đức",
         "NAME_ZH": "德国",
-        "COVID19_CONF": "103374",
-        "COVID19_DEA": "1810",
-        "COVID19_RECO": "28700"
+        "COVID19_CONF": "130072",
+        "COVID19_DEA": "3194",
+        "COVID19_RECO": "64300"
       },
       "geometry": {
         "type": "Polygon",
@@ -44367,9 +44367,9 @@
         "NAME_TR": "Bulgaristan",
         "NAME_VI": "Bulgaria",
         "NAME_ZH": "保加利亚",
-        "COVID19_CONF": "549",
-        "COVID19_DEA": "22",
-        "COVID19_RECO": "39"
+        "COVID19_CONF": "685",
+        "COVID19_DEA": "32",
+        "COVID19_RECO": "71"
       },
       "geometry": {
         "type": "Polygon",
@@ -44588,8 +44588,8 @@
         "NAME_TR": "Yunanistan",
         "NAME_VI": "Hy Lạp",
         "NAME_ZH": "希腊",
-        "COVID19_CONF": "1755",
-        "COVID19_DEA": "79",
+        "COVID19_CONF": "2145",
+        "COVID19_DEA": "99",
         "COVID19_RECO": "269"
       },
       "geometry": {
@@ -44919,9 +44919,9 @@
         "NAME_TR": "Türkiye",
         "NAME_VI": "Thổ Nhĩ Kỳ",
         "NAME_ZH": "土耳其",
-        "COVID19_CONF": "30217",
-        "COVID19_DEA": "649",
-        "COVID19_RECO": "1326"
+        "COVID19_CONF": "61049",
+        "COVID19_DEA": "1296",
+        "COVID19_RECO": "3957"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45306,9 +45306,9 @@
         "NAME_TR": "Arnavutluk",
         "NAME_VI": "Albania",
         "NAME_ZH": "阿尔巴尼亚",
-        "COVID19_CONF": "377",
-        "COVID19_DEA": "21",
-        "COVID19_RECO": "116"
+        "COVID19_CONF": "467",
+        "COVID19_DEA": "23",
+        "COVID19_RECO": "232"
       },
       "geometry": {
         "type": "Polygon",
@@ -45511,9 +45511,9 @@
         "NAME_TR": "Hırvatistan",
         "NAME_VI": "Croatia",
         "NAME_ZH": "克罗地亚",
-        "COVID19_CONF": "1222",
-        "COVID19_DEA": "16",
-        "COVID19_RECO": "130"
+        "COVID19_CONF": "1650",
+        "COVID19_DEA": "25",
+        "COVID19_RECO": "400"
       },
       "geometry": {
         "type": "Polygon",
@@ -45792,9 +45792,9 @@
         "NAME_TR": "İsviçre",
         "NAME_VI": "Thụy Sĩ",
         "NAME_ZH": "瑞士",
-        "COVID19_CONF": "21657",
-        "COVID19_DEA": "765",
-        "COVID19_RECO": "8056"
+        "COVID19_CONF": "25688",
+        "COVID19_DEA": "1138",
+        "COVID19_RECO": "13700"
       },
       "geometry": {
         "type": "Polygon",
@@ -45997,8 +45997,8 @@
         "NAME_TR": "Lüksemburg",
         "NAME_VI": "Luxembourg",
         "NAME_ZH": "卢森堡",
-        "COVID19_CONF": "2843",
-        "COVID19_DEA": "41",
+        "COVID19_CONF": "3292",
+        "COVID19_DEA": "69",
         "COVID19_RECO": "500"
       },
       "geometry": {
@@ -46134,9 +46134,9 @@
         "NAME_TR": "Belçika",
         "NAME_VI": "Bỉ",
         "NAME_ZH": "比利时",
-        "COVID19_CONF": "20814",
-        "COVID19_DEA": "1632",
-        "COVID19_RECO": "3986"
+        "COVID19_CONF": "30589",
+        "COVID19_DEA": "3903",
+        "COVID19_RECO": "6707"
       },
       "geometry": {
         "type": "Polygon",
@@ -46311,9 +46311,9 @@
         "NAME_TR": "Hollanda",
         "NAME_VI": "Hà Lan",
         "NAME_ZH": "荷蘭",
-        "COVID19_CONF": "18926",
-        "COVID19_DEA": "1874",
-        "COVID19_RECO": "258"
+        "COVID19_CONF": "26710",
+        "COVID19_DEA": "2833",
+        "COVID19_RECO": "295"
       },
       "geometry": {
         "type": "Polygon",
@@ -46480,9 +46480,9 @@
         "NAME_TR": "Portekiz",
         "NAME_VI": "Bồ Đào Nha",
         "NAME_ZH": "葡萄牙",
-        "COVID19_CONF": "11730",
-        "COVID19_DEA": "311",
-        "COVID19_RECO": "140"
+        "COVID19_CONF": "16934",
+        "COVID19_DEA": "535",
+        "COVID19_RECO": "277"
       },
       "geometry": {
         "type": "Polygon",
@@ -46721,9 +46721,9 @@
         "NAME_TR": "İspanya",
         "NAME_VI": "Tây Ban Nha",
         "NAME_ZH": "西班牙",
-        "COVID19_CONF": "136675",
-        "COVID19_DEA": "13341",
-        "COVID19_RECO": "40437"
+        "COVID19_CONF": "170099",
+        "COVID19_DEA": "17756",
+        "COVID19_RECO": "64727"
       },
       "geometry": {
         "type": "Polygon",
@@ -47034,8 +47034,8 @@
         "NAME_TR": "İrlanda",
         "NAME_VI": "Cộng hòa Ireland",
         "NAME_ZH": "爱尔兰共和国",
-        "COVID19_CONF": "5364",
-        "COVID19_DEA": "174",
+        "COVID19_CONF": "10647",
+        "COVID19_DEA": "365",
         "COVID19_RECO": "25"
       },
       "geometry": {
@@ -47628,9 +47628,9 @@
         "NAME_TR": "Yeni Zelanda",
         "NAME_VI": "New Zealand",
         "NAME_ZH": "新西兰",
-        "COVID19_CONF": "1106",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "176"
+        "COVID19_CONF": "1349",
+        "COVID19_DEA": "5",
+        "COVID19_RECO": "546"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48007,9 +48007,9 @@
         "NAME_TR": "Avustralya",
         "NAME_VI": "Úc",
         "NAME_ZH": "澳大利亚",
-        "COVID19_CONF": "5797",
-        "COVID19_DEA": "40",
-        "COVID19_RECO": "1080"
+        "COVID19_CONF": "6351",
+        "COVID19_DEA": "61",
+        "COVID19_RECO": "1806"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49086,9 +49086,9 @@
         "NAME_TR": "Sri Lanka",
         "NAME_VI": "Sri Lanka",
         "NAME_ZH": "斯里蘭卡",
-        "COVID19_CONF": "178",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "38"
+        "COVID19_CONF": "217",
+        "COVID19_DEA": "7",
+        "COVID19_RECO": "56"
       },
       "geometry": {
         "type": "Polygon",
@@ -49235,9 +49235,9 @@
         "NAME_TR": "Çin Halk Cumhuriyeti",
         "NAME_VI": "Cộng hòa Nhân dân Trung Hoa",
         "NAME_ZH": "中华人民共和国",
-        "COVID19_CONF": "82665",
-        "COVID19_DEA": "3335",
-        "COVID19_RECO": "77310"
+        "COVID19_CONF": "83213",
+        "COVID19_DEA": "3345",
+        "COVID19_RECO": "78039"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50310,9 +50310,9 @@
         "NAME_TR": "Çin Cumhuriyeti",
         "NAME_VI": "Đài Loan",
         "NAME_ZH": "中華民國",
-        "COVID19_CONF": "373",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "57"
+        "COVID19_CONF": "393",
+        "COVID19_DEA": "6",
+        "COVID19_RECO": "109"
       },
       "geometry": {
         "type": "Polygon",
@@ -50455,9 +50455,9 @@
         "NAME_TR": "İtalya",
         "NAME_VI": "Ý",
         "NAME_ZH": "意大利",
-        "COVID19_CONF": "132547",
-        "COVID19_DEA": "16523",
-        "COVID19_RECO": "22837"
+        "COVID19_CONF": "159516",
+        "COVID19_DEA": "20465",
+        "COVID19_RECO": "35435"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50922,9 +50922,9 @@
         "NAME_TR": "Danimarka",
         "NAME_VI": "Đan Mạch",
         "NAME_ZH": "丹麦",
-        "COVID19_CONF": "4681",
-        "COVID19_DEA": "187",
-        "COVID19_RECO": "1378"
+        "COVID19_CONF": "6318",
+        "COVID19_DEA": "285",
+        "COVID19_RECO": "2235"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51133,9 +51133,9 @@
         "NAME_TR": "Birleşik Krallık",
         "NAME_VI": "Vương quốc Liên hiệp Anh và Bắc Ireland",
         "NAME_ZH": "英国",
-        "COVID19_CONF": "52279",
-        "COVID19_DEA": "5385",
-        "COVID19_RECO": "287"
+        "COVID19_CONF": "89570",
+        "COVID19_DEA": "11347",
+        "COVID19_RECO": "304"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51472,9 +51472,9 @@
         "NAME_TR": "İzlanda",
         "NAME_VI": "Iceland",
         "NAME_ZH": "冰岛",
-        "COVID19_CONF": "1562",
-        "COVID19_DEA": "6",
-        "COVID19_RECO": "460"
+        "COVID19_CONF": "1711",
+        "COVID19_DEA": "8",
+        "COVID19_RECO": "933"
       },
       "geometry": {
         "type": "Polygon",
@@ -51661,9 +51661,9 @@
         "NAME_TR": "Azerbaycan",
         "NAME_VI": "Azerbaijan",
         "NAME_ZH": "阿塞拜疆",
-        "COVID19_CONF": "641",
-        "COVID19_DEA": "7",
-        "COVID19_RECO": "44"
+        "COVID19_CONF": "1148",
+        "COVID19_DEA": "12",
+        "COVID19_RECO": "289"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -51952,9 +51952,9 @@
         "NAME_TR": "Gürcistan",
         "NAME_VI": "Gruzia",
         "NAME_ZH": "格鲁吉亚",
-        "COVID19_CONF": "188",
-        "COVID19_DEA": "2",
-        "COVID19_RECO": "39"
+        "COVID19_CONF": "272",
+        "COVID19_DEA": "3",
+        "COVID19_RECO": "68"
       },
       "geometry": {
         "type": "Polygon",
@@ -52157,9 +52157,9 @@
         "NAME_TR": "Filipinler",
         "NAME_VI": "Philippines",
         "NAME_ZH": "菲律宾",
-        "COVID19_CONF": "3660",
-        "COVID19_DEA": "163",
-        "COVID19_RECO": "73"
+        "COVID19_CONF": "4932",
+        "COVID19_DEA": "315",
+        "COVID19_RECO": "242"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -52732,9 +52732,9 @@
         "NAME_TR": "Malezya",
         "NAME_VI": "Malaysia",
         "NAME_ZH": "马来西亚",
-        "COVID19_CONF": "3793",
-        "COVID19_DEA": "62",
-        "COVID19_RECO": "1241"
+        "COVID19_CONF": "4817",
+        "COVID19_DEA": "77",
+        "COVID19_RECO": "2276"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -53095,9 +53095,9 @@
         "NAME_TR": "Brunei",
         "NAME_VI": "Brunei",
         "NAME_ZH": "文莱",
-        "COVID19_CONF": "135",
+        "COVID19_CONF": "136",
         "COVID19_DEA": "1",
-        "COVID19_RECO": "82"
+        "COVID19_RECO": "107"
       },
       "geometry": {
         "type": "Polygon",
@@ -53236,9 +53236,9 @@
         "NAME_TR": "Slovenya",
         "NAME_VI": "Slovenia",
         "NAME_ZH": "斯洛文尼亚",
-        "COVID19_CONF": "1021",
-        "COVID19_DEA": "30",
-        "COVID19_RECO": "102"
+        "COVID19_CONF": "1212",
+        "COVID19_DEA": "55",
+        "COVID19_RECO": "152"
       },
       "geometry": {
         "type": "Polygon",
@@ -53417,8 +53417,8 @@
         "NAME_TR": "Finlandiya",
         "NAME_VI": "Phần Lan",
         "NAME_ZH": "芬兰",
-        "COVID19_CONF": "2176",
-        "COVID19_DEA": "27",
+        "COVID19_CONF": "3064",
+        "COVID19_DEA": "59",
         "COVID19_RECO": "300"
       },
       "geometry": {
@@ -53686,9 +53686,9 @@
         "NAME_TR": "Slovakya",
         "NAME_VI": "Slovakia",
         "NAME_ZH": "斯洛伐克",
-        "COVID19_CONF": "534",
+        "COVID19_CONF": "769",
         "COVID19_DEA": "2",
-        "COVID19_RECO": "8"
+        "COVID19_RECO": "107"
       },
       "geometry": {
         "type": "Polygon",
@@ -53927,9 +53927,9 @@
         "NAME_TR": "Çek Cumhuriyeti",
         "NAME_VI": "Cộng hòa Séc",
         "NAME_ZH": "捷克",
-        "COVID19_CONF": "4822",
-        "COVID19_DEA": "78",
-        "COVID19_RECO": "121"
+        "COVID19_CONF": "6059",
+        "COVID19_DEA": "143",
+        "COVID19_RECO": "519"
       },
       "geometry": {
         "type": "Polygon",
@@ -54176,7 +54176,7 @@
         "NAME_TR": "Eritre",
         "NAME_VI": "Eritrea",
         "NAME_ZH": "厄立特里亚",
-        "COVID19_CONF": "31",
+        "COVID19_CONF": "34",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
@@ -54397,9 +54397,9 @@
         "NAME_TR": "Japonya",
         "NAME_VI": "Nhật Bản",
         "NAME_ZH": "日本",
-        "COVID19_CONF": "3654",
-        "COVID19_DEA": "85",
-        "COVID19_RECO": "575"
+        "COVID19_CONF": "7370",
+        "COVID19_DEA": "123",
+        "COVID19_RECO": "784"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -54776,9 +54776,9 @@
         "NAME_TR": "Paraguay",
         "NAME_VI": "Paraguay",
         "NAME_ZH": "巴拉圭",
-        "COVID19_CONF": "113",
-        "COVID19_DEA": "5",
-        "COVID19_RECO": "12"
+        "COVID19_CONF": "147",
+        "COVID19_DEA": "6",
+        "COVID19_RECO": "22"
       },
       "geometry": {
         "type": "Polygon",
@@ -55016,7 +55016,10 @@
         "NAME_SV": "Jemen",
         "NAME_TR": "Yemen",
         "NAME_VI": "Yemen",
-        "NAME_ZH": "也门"
+        "NAME_ZH": "也门",
+        "COVID19_CONF": "1",
+        "COVID19_DEA": "0",
+        "COVID19_RECO": "0"
       },
       "geometry": {
         "type": "Polygon",
@@ -55299,9 +55302,9 @@
         "NAME_TR": "Suudi Arabistan",
         "NAME_VI": "Ả Rập Saudi",
         "NAME_ZH": "沙特阿拉伯",
-        "COVID19_CONF": "2605",
-        "COVID19_DEA": "38",
-        "COVID19_RECO": "551"
+        "COVID19_CONF": "4934",
+        "COVID19_DEA": "65",
+        "COVID19_RECO": "805"
       },
       "geometry": {
         "type": "Polygon",
@@ -58492,9 +58495,9 @@
         "NAME_TR": "Kuzey Kıbrıs Türk Cumhuriyeti",
         "NAME_VI": "Bắc Síp",
         "NAME_ZH": "北賽普勒斯土耳其共和國",
-        "COVID19_CONF": "465",
-        "COVID19_DEA": "9",
-        "COVID19_RECO": "45"
+        "COVID19_CONF": "662",
+        "COVID19_DEA": "12",
+        "COVID19_RECO": "65"
       },
       "geometry": {
         "type": "Polygon",
@@ -58665,9 +58668,9 @@
         "NAME_TR": "Kıbrıs Cumhuriyeti",
         "NAME_VI": "Cộng hòa Síp",
         "NAME_ZH": "賽普勒斯",
-        "COVID19_CONF": "465",
-        "COVID19_DEA": "9",
-        "COVID19_RECO": "45"
+        "COVID19_CONF": "662",
+        "COVID19_DEA": "12",
+        "COVID19_RECO": "65"
       },
       "geometry": {
         "type": "Polygon",
@@ -58834,9 +58837,9 @@
         "NAME_TR": "Fas",
         "NAME_VI": "Maroc",
         "NAME_ZH": "摩洛哥",
-        "COVID19_CONF": "1120",
-        "COVID19_DEA": "80",
-        "COVID19_RECO": "81"
+        "COVID19_CONF": "1763",
+        "COVID19_DEA": "126",
+        "COVID19_RECO": "203"
       },
       "geometry": {
         "type": "Polygon",
@@ -59195,9 +59198,9 @@
         "NAME_TR": "Mısır",
         "NAME_VI": "Ai Cập",
         "NAME_ZH": "埃及",
-        "COVID19_CONF": "1322",
-        "COVID19_DEA": "85",
-        "COVID19_RECO": "259"
+        "COVID19_CONF": "2190",
+        "COVID19_DEA": "164",
+        "COVID19_RECO": "589"
       },
       "geometry": {
         "type": "Polygon",
@@ -59480,9 +59483,9 @@
         "NAME_TR": "Libya",
         "NAME_VI": "Libya",
         "NAME_ZH": "利比亚",
-        "COVID19_CONF": "19",
+        "COVID19_CONF": "26",
         "COVID19_DEA": "1",
-        "COVID19_RECO": "1"
+        "COVID19_RECO": "9"
       },
       "geometry": {
         "type": "Polygon",
@@ -59813,9 +59816,9 @@
         "NAME_TR": "Etiyopya",
         "NAME_VI": "Ethiopia",
         "NAME_ZH": "埃塞俄比亚",
-        "COVID19_CONF": "44",
-        "COVID19_DEA": "2",
-        "COVID19_RECO": "4"
+        "COVID19_CONF": "74",
+        "COVID19_DEA": "3",
+        "COVID19_RECO": "14"
       },
       "geometry": {
         "type": "Polygon",
@@ -60158,9 +60161,9 @@
         "NAME_TR": "Cibuti",
         "NAME_VI": "Djibouti",
         "NAME_ZH": "吉布提",
-        "COVID19_CONF": "90",
-        "COVID19_DEA": "0",
-        "COVID19_RECO": "9"
+        "COVID19_CONF": "298",
+        "COVID19_DEA": "2",
+        "COVID19_RECO": "41"
       },
       "geometry": {
         "type": "Polygon",
@@ -60327,9 +60330,9 @@
         "NAME_TR": "Somaliland",
         "NAME_VI": "Somaliland",
         "NAME_ZH": "索马里兰",
-        "COVID19_CONF": "7",
-        "COVID19_DEA": "0",
-        "COVID19_RECO": "1"
+        "COVID19_CONF": "60",
+        "COVID19_DEA": "2",
+        "COVID19_RECO": "2"
       },
       "geometry": {
         "type": "Polygon",
@@ -60540,9 +60543,9 @@
         "NAME_TR": "Uganda",
         "NAME_VI": "Uganda",
         "NAME_ZH": "乌干达",
-        "COVID19_CONF": "52",
+        "COVID19_CONF": "54",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "0"
+        "COVID19_RECO": "7"
       },
       "geometry": {
         "type": "Polygon",
@@ -60761,9 +60764,9 @@
         "NAME_TR": "Ruanda",
         "NAME_VI": "Rwanda",
         "NAME_ZH": "卢旺达",
-        "COVID19_CONF": "105",
+        "COVID19_CONF": "127",
         "COVID19_DEA": "0",
-        "COVID19_RECO": "4"
+        "COVID19_RECO": "42"
       },
       "geometry": {
         "type": "Polygon",
@@ -60926,9 +60929,9 @@
         "NAME_TR": "Bosna-Hersek",
         "NAME_VI": "Bosna và Hercegovina",
         "NAME_ZH": "波斯尼亚和黑塞哥维那",
-        "COVID19_CONF": "674",
-        "COVID19_DEA": "29",
-        "COVID19_RECO": "47"
+        "COVID19_CONF": "1037",
+        "COVID19_DEA": "39",
+        "COVID19_RECO": "206"
       },
       "geometry": {
         "type": "Polygon",
@@ -61127,9 +61130,9 @@
         "NAME_TR": "Makedonya Cumhuriyeti",
         "NAME_VI": "Cộng hòa Macedonia",
         "NAME_ZH": "馬其頓共和國",
-        "COVID19_CONF": "570",
-        "COVID19_DEA": "23",
-        "COVID19_RECO": "30"
+        "COVID19_CONF": "854",
+        "COVID19_DEA": "38",
+        "COVID19_RECO": "44"
       },
       "geometry": {
         "type": "Polygon",
@@ -61308,8 +61311,8 @@
         "NAME_TR": "Sırbistan",
         "NAME_VI": "Serbia",
         "NAME_ZH": "塞尔维亚",
-        "COVID19_CONF": "2200",
-        "COVID19_DEA": "58",
+        "COVID19_CONF": "4054",
+        "COVID19_DEA": "85",
         "COVID19_RECO": "0"
       },
       "geometry": {
@@ -61609,9 +61612,9 @@
         "NAME_TR": "Karadağ",
         "NAME_VI": "Montenegro",
         "NAME_ZH": "蒙特內哥羅",
-        "COVID19_CONF": "233",
-        "COVID19_DEA": "2",
-        "COVID19_RECO": "1"
+        "COVID19_CONF": "274",
+        "COVID19_DEA": "3",
+        "COVID19_RECO": "5"
       },
       "geometry": {
         "type": "Polygon",
@@ -61790,9 +61793,9 @@
         "NAME_TR": "Kosova",
         "NAME_VI": "Kosovo",
         "NAME_ZH": "科索沃",
-        "COVID19_CONF": "145",
-        "COVID19_DEA": "1",
-        "COVID19_RECO": "23"
+        "COVID19_CONF": "283",
+        "COVID19_DEA": "7",
+        "COVID19_RECO": "58"
       },
       "geometry": {
         "type": "Polygon",
@@ -61983,9 +61986,9 @@
         "NAME_TR": "Trinidad ve Tobago",
         "NAME_VI": "Trinidad và Tobago",
         "NAME_ZH": "千里達及托巴哥",
-        "COVID19_CONF": "105",
+        "COVID19_CONF": "113",
         "COVID19_DEA": "8",
-        "COVID19_RECO": "1"
+        "COVID19_RECO": "16"
       },
       "geometry": {
         "type": "Polygon",
@@ -62124,7 +62127,7 @@
         "NAME_TR": "Güney Sudan",
         "NAME_VI": "Nam Sudan",
         "NAME_ZH": "南苏丹",
-        "COVID19_CONF": "1",
+        "COVID19_CONF": "4",
         "COVID19_DEA": "0",
         "COVID19_RECO": "0"
       },
